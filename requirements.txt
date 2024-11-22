@@ -1,0 +1,6 @@
+torch>=2.0.0         # PyTorch, a deep learning framework
+transformers>=4.30.0 # For loading pre-trained models like DistilBERT
+safetensors>=0.3.0   # Supports loading safetensors format model weights
+pandas>=1.3.0        # For reading and processing CSV data
+chardet>=5.1.0       # Auto-detect file encoding to handle UnicodeDecodeError
+ipywidgets>=8.0.0    # Optional: Supports interactive functionality in Jupyter Notebook
