@@ -62,6 +62,10 @@ This project is a sentiment analysis system built using pre-trained transformer 
 ### Step 1: Train the Model
 Run the `train_and_test.py` script to train the model:
 ```bash
+pip install -r requirements.txt
+```
+
+```bash
 python train_and_test.py
 ```
 
